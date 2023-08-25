@@ -1,2 +1,3 @@
 # Vulnerablesite
-How vulnerable sites look like i have to create this vulnerable sites using php
+How vulnerable sites look like and try out this vulnerable sites using php (server-site programming languages)
+to clone it.
